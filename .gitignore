@@ -7,4 +7,6 @@
 # Unignore all dirs
 !*/
 
+!makefile
+
 *.o
