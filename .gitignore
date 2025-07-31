@@ -10,3 +10,5 @@
 !makefile
 
 *.o
+*.a
+*.so
